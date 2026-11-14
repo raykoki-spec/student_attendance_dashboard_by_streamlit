@@ -6,9 +6,9 @@ A Streamlit web app that lets the school principal monitor student attendance of
 ## What It Does
 
 - Connects to the CSV file
-- Applies logic to produce key metrics(Overall attendance rate, best attending class, worst attending class) 
+- Applies logic to produce key metrics (overall attendance rate, best attending class, worst attending class) 
 - Plots a line chart of attendance rate per class
-- Filters thedate with date_range slider
+- Filters the date with date_range slider
 - The dashboard displays key metrics and line charts and also accepts other attendance CSV file upload to analyze
 
 
