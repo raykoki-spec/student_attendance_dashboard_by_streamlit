@@ -3,6 +3,8 @@
 
 A Streamlit web app that lets the school principal monitor student attendance of 5 classes from a phone or laptop, without opening Excel.
 
+image.png
+
 ## What It Does
 
 - Connects to the CSV file
@@ -37,13 +39,6 @@ col1.metric("Overall Attendance", f"{overall_attendance:.1f}%")
 col2.metric("Best Class", best_attending_class, f"{class_rates.max():.1f}%", delta_color="off")
 
 col3.metric("Worst Class", worst_attending_class, f"{class_rates.min():.1f}%", delta_color="off")
-```
-
-## Sample Output
-
-Check the screenshot shared in the repository
-```
-image.png
 ```
 
 ## CSV Format
