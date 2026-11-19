@@ -3,7 +3,7 @@
 
 A Streamlit web app that lets the school principal monitor student attendance of 5 classes from a phone or laptop, without opening Excel.
 
-image.png
+![Sample Dashboard](image.png)
 
 ## What It Does
 
